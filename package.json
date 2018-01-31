@@ -1,0 +1,19 @@
+{
+  "name": "react-transition-group-example",
+  "description": "Simple Example of how to use React Transition Group to implement animation between mounting and unmounting a component.",
+  "version": "0.0.34",
+  "dependencies": {
+    "react-transition-group": "2.2.1",
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
